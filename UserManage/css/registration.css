@@ -1,0 +1,16 @@
+h1 {
+    color: #007bff;
+    font-weight: bold;
+}
+
+h5 {
+    color: #007bff;
+}
+
+.btn {
+    background-color: #007bff;
+}
+
+.form-outline.mb-2 {
+    width: 48%;
+}

@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 1.5rem;
+}
+
+.img-fluid {
+    border-radius: 1.5rem 0 0 1.5rem;
+}
+
+.form-control {
+    border-radius: 0.75rem;
+    border: 1px solid #ced4da;
+}
+
+.btn {
+    background-color: #007bff;
+    color: white;
+    border-radius: 0.75rem;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.form-label {
+    font-weight: 500;
+    color: #6c757d;
+}
+
+.h1, .h5 {
+    color: #343a40;
+}
+
+.small {
+    font-size: 0.875rem;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.mb-5, .pb-lg-2 {
+    margin-top: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+input{
+    border :1px solid black !important;
+}
